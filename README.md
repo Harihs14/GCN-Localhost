@@ -117,6 +117,3 @@ python main.py
 - Ollama for local LLM capabilities
 - SerpAPI for web search functionality
 
-## License
-
-[Add appropriate license information]
